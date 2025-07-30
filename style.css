@@ -137,7 +137,7 @@ section {
     box-shadow: 0 0 20px rgba(0, 208, 255, 0.5);
 }
 
-.octagon-img img {
+.octagon-img {
   width: 300px;
   height: 300px;
   object-fit: cover;
