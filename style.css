@@ -2,6 +2,15 @@
     box-sizing: border-box;
 }
 
+.hero {
+    padding: 70px 50px;
+    margin-bottom: 50px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 12px;
+    border: 1px solid rgba(0, 238, 255, 0.4);
+    box-shadow: 0 0 20px rgba(0, 208, 255, 0.5);
+}
+
 .container-wrapper {
   display: flex;
   align-items: center;
@@ -402,4 +411,5 @@ section {
     padding: 30px 20px;
     font-size: 01.95rem;
     color: #ff0000;
+
 }
